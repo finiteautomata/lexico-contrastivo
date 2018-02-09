@@ -112,3 +112,5 @@ test/
 ult_json/
 tweetsFinal/
 provs/
+# Por defecto, ignorar csv's
+*.csv
